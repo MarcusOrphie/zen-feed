@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/modules/content/">
+  <channel>
+    <title>MultihubAI</title>
+    <link>https://multihub.ai</link>
+    <description>AI articles</description>
+    <language>ru</language>
+    <generator>ZenAIWriter</generator>
+  </channel>
+</rss>
