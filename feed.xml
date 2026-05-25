@@ -4,12 +4,101 @@
   xmlns:media="http://search.yahoo.com/mrss/"
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>MultihubAI - vsyo ob ИИ</title>
+    <title>MultihubAI — всё об ИИ</title>
     <link>https://multihub.ai</link>
-    <description>Экспертные статьи об искусственном интеллекте</description>
+    <description>Экспертные статьи об искусственном интеллекте, нейросетях и AI-инструментах</description>
     <language>ru</language>
     <generator>ZenAIWriter</generator>
-    <lastBuildDate>Mon, 25 May 2026 10:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:02:37 +0000</lastBuildDate>
+    <item>
+      <title>Промпты для Midjourney: 10 рабочих приёмов с примерами</title>
+      <link>https://multihub.ai/articles/промпты-для-midjourney-10-рабочих-приёмов-с-примерами-bc31a14a</link>
+      <guid isPermaLink="false">bc31a14acc8fdc251458166f8f694d1a</guid>
+      <pubDate>Mon, 25 May 2026 15:02:37 +0000</pubDate>
+      <description>Промпты для Midjourney решают всё: один и тот же запрос может дать шедевр или мусор. Собрал 10 проверенных приёмов с примерами — забирайте и применяйте сразу.</description>
+      <category>format-article</category>
+      <category>AI инструменты</category>
+      <category>Midjourney</category>
+      <category>нейросети</category>
+      <category>промпты</category>
+      <category>генерация изображений</category>
+      <category>искусственный интеллект</category>
+      <category>ИИ для дизайна</category>
+      <content:encoded><![CDATA[<figure><img src="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
+      <p>Качество генерации зависит не от удачи, а от структуры запроса. Ниже - 10 приёмов, которые превращают хаотичные текстовые запросы для ИИ в управляемый инструмент. Подойдёт тем, кто использует нейросеть для картинок в работе: дизайнерам, маркетологам, иллюстраторам.</p>
+      <h2>Структура рабочего промпта</h2>
+      <p>Базовая формула: <b>субъект + детали + стиль + композиция + параметры</b>. Midjourney считывает первые слова как приоритетные, поэтому ключевой объект ставится в начало.</p>
+      <p>Пример: cyberpunk samurai, neon reflections on wet armor, cinematic lighting, low angle shot --ar 16:9 --v 6</p>
+      <h2>10 приёмов для качественной генерации</h2>
+      <h3>1. Конкретика вместо общих слов</h3>
+      <p>«Beautiful woman» даёт усреднённый результат. «Portrait of a 30-year-old woman with auburn hair, freckles, green eyes, soft window light» - конкретный кадр. Чем точнее описание, тем меньше итераций.</p>
+      <h3>2. Указание стиля через референсы</h3>
+      <p>Добавляйте имена художников, направления, эпохи: in the style of Moebius, Bauhaus poster, 1980s anime cel shading. Это базовый способ задать визуальный язык при создании артов в Midjourney.</p>
+      <h3>3. Работа со светом</h3>
+      <p>Свет определяет настроение сильнее, чем сюжет. Используйте: golden hour, rim light, volumetric lighting, chiaroscuro, softbox studio light. Без указания света нейросеть для рисования выбирает усреднённое освещение.</p>
+      <h3>4. Камера и оптика</h3>
+      <p>Технические термины фотографии работают как точные инструкции:</p>
+      <ul>
+      <li>shot on Hasselblad, 35mm film grain</li>
+      <li>macro lens, wide angle 24mm</li>
+      <li>shallow depth of field, bokeh</li>
+      </ul>
+      <h3>5. Композиция и ракурс</h3>
+      <p>Управляйте кадром: dutch angle, top-down view, over-the-shoulder shot, rule of thirds, symmetrical composition. Это особенно важно для сцен с несколькими объектами.</p>
+      <h3>6. Параметры промптов</h3>
+      <p>Ключевые флаги, без которых не обойтись:</p>
+      <p>| Параметр | Назначение |</p>
+      <p>|----------|-----------|</p>
+      <p>| --ar 16:9 | Соотношение сторон |</p>
+      <p>| --v 6 | Версия модели |</p>
+      <p>| --style raw | Минимум стилизации |</p>
+      <p>| --s 250 | Уровень стилизации (0-1000) |</p>
+      <p>| --chaos 30 | Разброс вариантов |</p>
+      <p>| --no | Исключить элемент |</p>
+      <h3>7. Веса слов</h3>
+      <p>Усиливайте важные элементы через ::. Пример: forest::2 castle::1 - лес получит вдвое больший вес. Это помогает, когда нейросеть игнорирует часть запроса.</p>
+      <h3>8. Отрицательные промпты</h3>
+      <p>Через --no убирайте нежелательное: --no text, blur, extra fingers, watermark. Работает надёжнее, чем формулировки «без…» в основной части.</p>
+      <h3>9. Image prompt и стилевые ссылки</h3>
+      <p>Прикрепляйте изображение в начале запроса для переноса композиции (/imagine [url] описание) или используйте --sref [url] для копирования стиля без копирования содержания. Полезно для серий в едином визуале.</p>
+      <h3>10. Итерации через Vary и Remix</h3>
+      <p>Не пытайтесь получить финал с первой генерации. Используйте Vary (Region) для локальных правок, Remix для изменения промпта на основе готового кадра. Это экономит время сильнее, чем переписывание запроса с нуля.</p>
+      <h2>Шаблоны запросов для нейросети</h2>
+      <p>Готовые конструкции под частые задачи.</p>
+      <h3>Продуктовая съёмка</h3>
+      <p>product photography of [объект], white seamless background, softbox lighting, high detail, commercial style --ar 1:1 --style raw</p>
+      <h3>Концепт-арт персонажа</h3>
+      <p>character concept art, [описание персонажа], full body, T-pose, neutral background, detailed costume design, ArtStation trending --ar 2:3</p>
+      <h3>Иллюстрация для статьи</h3>
+      <p>flat vector illustration, [тема], pastel palette, minimalistic, editorial style --ar 16:9 --no realistic, 3d</p>
+      <h3>Архитектурный рендер</h3>
+      <p>architectural visualization, [тип здания], golden hour, photorealistic, V-Ray render, ultra detailed --ar 16:9 --v 6</p>
+      <blockquote>🔗 <a href="https://multihub.ai">Все популярные AI модели в одном месте: multihub.ai</a></blockquote>
+      <h2>Типичные ошибки</h2>
+      <ul>
+      <li><b>Перегруз прилагательными.</b> 20 эпитетов подряд размывают результат. Оптимум - 5-8 ключевых дескрипторов.</li>
+      <li><b>Противоречия.</b> minimalistic and highly detailed ломают логику генерации.</li>
+      <li><b>Игнор версии модели.</b> v6 и niji 6 требуют разной формулировки: niji лучше реагирует на короткие запросы в аниме-стилистике.</li>
+      <li><b>Отсутствие seed при серии.</b> Для единообразия персонажа фиксируйте --seed или используйте --cref.</li>
+      </ul>
+      <h2>Где тестировать и хранить промпты</h2>
+      <p>Удобно вести библиотеку удачных запросов: фиксируйте формулу, параметры, ссылку на результат. Для работы с несколькими моделями искусственного интеллекта для дизайна подойдёт multihub.ai - там можно сравнивать генерацию изображений нейросетью в Midjourney с альтернативами вроде Flux или DALL-E в одном интерфейсе.</p>
+      <p>Системный подход к промптингу сокращает количество генераций в 3-5 раз. Сохраняйте рабочие шаблоны, разбирайте чужие удачные кадры на компоненты - это быстрее, чем учиться методом случайных попыток.</p>
+      <blockquote>🔗 <a href="https://multihub.ai">Все популярные AI модели в одном месте: multihub.ai</a></blockquote>
+      <h2>FAQ</h2>
+      <p><b>Сколько слов должно быть в промпте?</b></p>
+      <p>Оптимально 15-40 слов. Короткие запросы дают шаблонный результат, длинные - размытый. Каждое слово должно нести смысл.</p>
+      <p><b>Чем отличается --style raw от обычного режима?</b></p>
+      <p>--style raw отключает автоматическую художественную обработку Midjourney. Подходит для фотореализма и продуктовой съёмки, где не нужна стилизация.</p>
+      <p><b>Как добиться одинакового персонажа в серии изображений?</b></p>
+      <p>Используйте параметр --cref [url] со ссылкой на эталонное изображение и фиксируйте --seed. Дополнительно описывайте узнаваемые черты текстом.</p>
+      <p><b>Работают ли промпты на русском языке?</b></p>
+      <p>Midjourney понимает русский, но качество ниже. Англоязычные текстовые запросы для ИИ дают точнее результат, так как обучающие данные преимущественно англоязычные.</p>
+      <p><b>Что делать, если результат далёк от задуманного?</b></p>
+      <p>Сократите промпт до 5-7 ключевых элементов, проверьте противоречия, добавьте --style raw и снизьте --s до 50-100. Затем постепенно добавляйте детали.</p>]]></content:encoded>
+      <enclosure url="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" type="image/jpeg" length="1"/>
+      <media:content url="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" medium="image" width="1200" height="800"/>
+    </item>
     <item>
       <title>ChatGPT vs Claude vs Gemini: какой AI выбрать в 2025</title>
       <link>https://multihub.ai/articles/chatgpt-vs-claude-vs-gemini-какой-ai-выбрать-в-2025-f96c0455</link>
