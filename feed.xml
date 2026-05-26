@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-  xmlns:content="http://purl.org/rss/modules/content/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
   <channel>
     <title>MultihubAI — всё об ИИ</title>
     <link>https://multihub.ai</link>
-    <description>Экспертные статьи об искусственном интеллекте, нейросетях и AI-инструментах</description>
+    <description>Экспертные статьи об искусственном интеллекте</description>
     <language>ru</language>
     <generator>ZenAIWriter</generator>
-    <lastBuildDate>Mon, 25 May 2026 15:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 11:12:22 +0000</lastBuildDate>
     <item>
       <title>Промпты для Midjourney: 10 рабочих приёмов с примерами</title>
-      <link>https://multihub.ai/articles/промпты-для-midjourney-10-рабочих-приёмов-с-примерами-bc31a14a</link>
-      <guid isPermaLink="false">bc31a14acc8fdc251458166f8f694d1a</guid>
-      <pubDate>Mon, 25 May 2026 15:02:37 +0000</pubDate>
+      <link>https://multihub.ai/articles/промпты-для-midjourney-10-рабочих-приёмов-с-примерами-bb3fba29</link>
+      <guid isPermaLink="false">bb3fba293a27632a37844365493431b5</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Промпты для Midjourney решают всё: один и тот же запрос может дать шедевр или мусор. Собрал 10 проверенных приёмов с примерами — забирайте и применяйте сразу.</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI инструменты</category>
       <category>Midjourney</category>
       <category>нейросети</category>
       <category>промпты</category>
       <category>генерация изображений</category>
       <category>искусственный интеллект</category>
-      <category>ИИ для дизайна</category>
-      <content:encoded><![CDATA[<figure><img src="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
+      <content:encoded><![CDATA[<h1>Промпты для Midjourney: 10 рабочих приёмов с примерами</h1>
+      <figure><img src="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
       <p>Качество генерации зависит не от удачи, а от структуры запроса. Ниже - 10 приёмов, которые превращают хаотичные текстовые запросы для ИИ в управляемый инструмент. Подойдёт тем, кто использует нейросеть для картинок в работе: дизайнерам, маркетологам, иллюстраторам.</p>
       <h2>Структура рабочего промпта</h2>
       <p>Базовая формула: <b>субъект + детали + стиль + композиция + параметры</b>. Midjourney считывает первые слова как приоритетные, поэтому ключевой объект ставится в начало.</p>
@@ -96,24 +100,27 @@
       <p>Midjourney понимает русский, но качество ниже. Англоязычные текстовые запросы для ИИ дают точнее результат, так как обучающие данные преимущественно англоязычные.</p>
       <p><b>Что делать, если результат далёк от задуманного?</b></p>
       <p>Сократите промпт до 5-7 ключевых элементов, проверьте противоречия, добавьте --style raw и снизьте --s до 50-100. Затем постепенно добавляйте детали.</p>]]></content:encoded>
-      <enclosure url="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" type="image/jpeg" length="1"/>
-      <media:content url="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" medium="image" width="1200" height="800"/>
+      <enclosure url="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" type="image/jpeg"/>
+      <media:content url="https://images.pexels.com/photos/5428670/pexels-photo-5428670.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" medium="image"/>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
     </item>
     <item>
       <title>ChatGPT vs Claude vs Gemini: какой AI выбрать в 2025</title>
-      <link>https://multihub.ai/articles/chatgpt-vs-claude-vs-gemini-какой-ai-выбрать-в-2025-f96c0455</link>
-      <guid isPermaLink="false">f96c045549cb54e3298d31b2976c3538</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/chatgpt-vs-claude-vs-gemini-какой-ai-выбрать-в-2025-88723f67</link>
+      <guid isPermaLink="false">88723f6786eea8a06b600cd14daf52b7</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>ChatGPT, Claude или Gemini — какой AI-помощник реально стоит своих денег в 2025 году? Сравниваем три топовые нейросети по скорости, качеству ответов и цене. Узнайте, кто победил.</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI инструменты</category>
       <category>нейросети</category>
       <category>ChatGPT</category>
       <category>искусственный интеллект</category>
       <category>сравнение нейросетей</category>
       <category>Claude</category>
-      <category>Gemini</category>
-      <content:encoded><![CDATA[<figure><img src="https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
+      <content:encoded><![CDATA[<h1>ChatGPT vs Claude vs Gemini: какой AI выбрать в 2025</h1>
+      <figure><img src="https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
       <p>К 2025 году рынок языковых моделей сформировался вокруг трёх лидеров: OpenAI, Anthropic и Google. Каждый продукт занял свою нишу, и выбор нейросети теперь зависит не от «крутости», а от конкретных задач. Разбираем отличия GPT и Claude, сильные стороны Gemini и даём практические рекомендации.</p>
       <h2>Краткое сравнение ChatGPT, Claude и Gemini</h2>
       <p>| Параметр | ChatGPT (GPT-4o, o1) | Claude 3.5/4 Sonnet | Gemini 2.0 |</p>
@@ -201,24 +208,27 @@
       <p>Gemini даёт самый щедрый бесплатный доступ через AI Studio. У ChatGPT и Claude бесплатные версии ограничены по лимитам и моделям.</p>
       <p><b>5. Нужно ли платить за все три сервиса сразу?</b></p>
       <p>Не обязательно. Удобнее подключить агрегатор с доступом к нескольким моделям по одной подписке - так выходит дешевле трёх Pro-тарифов.</p>]]></content:encoded>
-      <enclosure url="https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" type="image/jpeg" length="1"/>
-      <media:content url="https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" medium="image" width="1200" height="800"/>
+      <enclosure url="https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" type="image/jpeg"/>
+      <media:content url="https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" medium="image"/>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
     </item>
     <item>
       <title>5 нейросетей для генерации контента: сравнение и кейсы</title>
-      <link>https://multihub.ai/articles/5-нейросетей-для-генерации-контента-сравнение-и-кейсы-19d95aae</link>
-      <guid isPermaLink="false">19d95aaef3f50fc47f2175fe11ab930e</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/5-нейросетей-для-генерации-контента-сравнение-и-кейсы-5b07037e</link>
+      <guid isPermaLink="false">5b07037ecc1332aef2790ec9b4650e36</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Сравнили 5 нейросетей для генерации контента: ChatGPT, Claude, Gemini и другие. Реальные кейсы, сильные стороны каждой и цены. Узнайте, какая ИИ подойдёт именно вам — читайте обзор!</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI для бизнеса</category>
       <category>нейросети</category>
       <category>искусственный интеллект</category>
       <category>ChatGPT</category>
       <category>копирайтинг</category>
       <category>контент-маркетинг</category>
-      <category>генерация текста</category>
-      <content:encoded><![CDATA[<figure><img src="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
+      <content:encoded><![CDATA[<h1>5 нейросетей для генерации контента: сравнение и кейсы</h1>
+      <figure><img src="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
       <p>Нейросети для генерации контента перестали быть экспериментом - это рабочий инструмент маркетологов, редакторов и SMM-команд. Разбираем 5 решений, которые реально применяются в бизнесе, с конкретными кейсами и метриками.</p>
       <h2>Как мы оценивали нейросети</h2>
       <p>Критерии сравнения:</p>
@@ -300,24 +310,27 @@
       <p>От 1500 ₽/мес за подписку на одну модель до 50 000+ ₽/мес при использовании API с большими объёмами. Окупаемость - в среднем 2-3 месяца за счёт экономии на копирайтерах.</p>
       <p><b>Нужно ли учить промпт-инжиниринг?</b></p>
       <p>Да, базовые навыки обязательны. Качество результата на 80% зависит от формулировки запроса: роль, контекст, структура, примеры, ограничения.</p>]]></content:encoded>
-      <enclosure url="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" type="image/jpeg" length="1"/>
-      <media:content url="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" medium="image" width="1200" height="800"/>
+      <enclosure url="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" type="image/jpeg"/>
+      <media:content url="https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" medium="image"/>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
     </item>
     <item>
       <title>AI ассистент для продаж: создать за 1 день - инструкция</title>
-      <link>https://multihub.ai/articles/ai-ассистент-для-продаж-создать-за-1-день---инструкция-bb4e4620</link>
-      <guid isPermaLink="false">bb4e4620d3b422487380c05d394f2c67</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/ai-ассистент-для-продаж-создать-за-1-день---инструкция-ef993114</link>
+      <guid isPermaLink="false">ef9931140f1bb2ef85c9ff95c219fdcf</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Хотите AI ассистента для продаж, но думаете, что это долго и дорого? Покажу, как создать его за 1 день без программирования. Пошаговая инструкция внутри — забирайте!</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI для бизнеса</category>
       <category>искусственный интеллект</category>
       <category>автоматизация продаж</category>
       <category>нейросети для бизнеса</category>
       <category>чат-бот</category>
       <category>GPT</category>
-      <category>CRM системы</category>
-      <content:encoded><![CDATA[<figure><img src="https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
+      <content:encoded><![CDATA[<h1>AI ассистент для продаж: создать за 1 день - инструкция</h1>
+      <figure><img src="https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /></figure>
       <p>Менеджеры тратят до 70% времени на рутину: квалификация лидов, заполнение CRM, ответы на типовые вопросы. AI ассистент для продаж снимает эту нагрузку и увеличивает конверсию в сделку на 20-40%. Разберём, как собрать рабочего помощника за 8 часов без команды разработчиков.</p>
       <h2>Что умеет AI ассистент для продаж</h2>
       <p>Современная нейросеть для менеджеров закрывает четыре блока задач:</p>
@@ -411,24 +424,27 @@
       <p>Подписка на платформу - от 2 000 до 20 000 рублей в месяц. Расходы на API модели - 3 000-15 000 рублей в месяц при потоке 500-1000 диалогов.</p>
       <p><b>5. Как защитить данные клиентов?</b></p>
       <p>Используйте платформы с хранением данных в РФ, отключайте обучение моделей на ваших диалогах, шифруйте передачу через HTTPS и не передавайте в промпт паспортные данные.</p>]]></content:encoded>
-      <enclosure url="https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" type="image/jpeg" length="1"/>
-      <media:content url="https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" medium="image" width="1200" height="800"/>
+      <enclosure url="https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" type="image/jpeg"/>
+      <media:content url="https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" medium="image"/>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
     </item>
     <item>
       <title>ТОП-5 нейросетей для бизнеса в 2025 году: обзор</title>
-      <link>https://multihub.ai/articles/топ-5-нейросетей-для-бизнеса-в-2025-году-обзор-e9d6cde3</link>
-      <guid isPermaLink="false">e9d6cde3fce28147e3d95778776f70ba</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/топ-5-нейросетей-для-бизнеса-в-2025-году-обзор-64a2e033</link>
+      <guid isPermaLink="false">64a2e0339a1b7bba2488a93bc624439e</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Какие нейросети для бизнеса реально работают в 2025 году? Собрали ТОП-5 проверенных сервисов: возможности, цены, плюсы и минусы. Узнайте, что выбрать именно вам — читайте обзор!</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI тренды</category>
       <category>нейросети</category>
       <category>искусственный интеллект</category>
       <category>бизнес</category>
       <category>ИИ для бизнеса</category>
       <category>автоматизация</category>
-      <category>технологии 2025</category>
-      <content:encoded><![CDATA[<h2>Зачем бизнесу нейросети в 2025 году</h2>
+      <content:encoded><![CDATA[<h1>ТОП-5 нейросетей для бизнеса в 2025 году: обзор</h1>
+      <h2>Зачем бизнесу нейросети в 2025 году</h2>
       <p>Искусственный интеллект для компаний перестал быть экспериментом. По данным McKinsey, 78% организаций уже используют AI хотя бы в одной функции. Автоматизация бизнес-процессов с помощью нейросетей сокращает операционные затраты на 20-40% и ускоряет рутинные задачи в 5-10 раз.</p>
       <p>Ниже - обзор пяти AI-сервисов, которые показали наилучшие результаты по соотношению функционала, стоимости и удобства внедрения.</p>
       <h2>ТОП-5 нейросетей для бизнеса в 2025 году</h2>
@@ -500,19 +516,21 @@
     </item>
     <item>
       <title>Gemini для бизнеса: интеграция с Google Workspace</title>
-      <link>https://multihub.ai/articles/gemini-для-бизнеса-интеграция-с-google-workspace-2ef39d8e</link>
-      <guid isPermaLink="false">2ef39d8ea66e8a3dc331318f8e16b020</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/gemini-для-бизнеса-интеграция-с-google-workspace-22869827</link>
+      <guid isPermaLink="false">22869827aa94ddf49a9b81b43d37276f</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Gemini в Google Workspace меняет правила игры: автоматизация рутины, умная работа с Docs и Sheets, готовые сценарии для бизнеса. Разбираем реальные кейсы внедрения и считаем выгоду.</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI для бизнеса</category>
       <category>Gemini для бизнеса</category>
       <category>Google Workspace</category>
       <category>нейросети для работы</category>
       <category>автоматизация бизнеса</category>
       <category>искусственный интеллект</category>
-      <category>ИИ в офисе</category>
-      <content:encoded><![CDATA[<h2>Что такое Gemini и зачем он бизнесу</h2>
+      <content:encoded><![CDATA[<h1>Gemini для бизнеса: интеграция с Google Workspace</h1>
+      <h2>Что такое Gemini и зачем он бизнесу</h2>
       <p>Gemini - мультимодальная нейросеть от Google, встроенная в экосистему Workspace. В отличие от внешних чат-ботов, она работает с вашими корпоративными данными напрямую: письмами в Gmail, документами в Drive, таблицами и презентациями.</p>
       <p>Для компаний это означает, что сотрудники получают ИИ-ассистента, который понимает контекст рабочих процессов, не требует переключения между сервисами и соблюдает корпоративные политики безопасности Google.</p>
       <h3>Ключевые возможности Gemini AI</h3>
@@ -584,19 +602,21 @@
     </item>
     <item>
       <title>Claude для анализа документов: 7 рабочих способов</title>
-      <link>https://multihub.ai/articles/claude-для-анализа-документов-7-рабочих-способов-4046d211</link>
-      <guid isPermaLink="false">4046d211104f22ba09b4f7c1391afef9</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/claude-для-анализа-документов-7-рабочих-способов-da27a941</link>
+      <guid isPermaLink="false">da27a941264ffad6ebb889a795296f8b</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Claude для анализа документов экономит часы работы с PDF, договорами и отчётами. Разбираем 7 проверенных способов с примерами промптов — от извлечения данных до сравнения версий.</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI для бизнеса</category>
       <category>Claude</category>
       <category>нейросети</category>
       <category>искусственный интеллект</category>
       <category>анализ документов</category>
       <category>ИИ для бизнеса</category>
-      <category>работа с PDF</category>
-      <content:encoded><![CDATA[<p>Claude от Anthropic обрабатывает до 200 000 токенов контекста за один запрос - это около 500 страниц текста. Такой объём делает модель одним из сильнейших инструментов для работы с длинными документами. Разберём конкретные сценарии, где Claude для анализа документов даёт измеримый результат.</p>
+      <content:encoded><![CDATA[<h1>Claude для анализа документов: 7 рабочих способов</h1>
+      <p>Claude от Anthropic обрабатывает до 200 000 токенов контекста за один запрос - это около 500 страниц текста. Такой объём делает модель одним из сильнейших инструментов для работы с длинными документами. Разберём конкретные сценарии, где Claude для анализа документов даёт измеримый результат.</p>
       <h2>1. Анализ финансовых и квартальных отчётов</h2>
       <p>Загрузите PDF с отчётом - Claude извлечёт ключевые метрики, сравнит периоды и выделит аномалии. AI анализ отчётов экономит часы ручной работы аналитика.</p>
       <h3>Пример промпта</h3>
@@ -655,19 +675,21 @@
     </item>
     <item>
       <title>Как написать сценарий для YouTube через Claude и Gemini</title>
-      <link>https://multihub.ai/articles/как-написать-сценарий-для-youtube-через-claude-и-gemini-569cf4d7</link>
-      <guid isPermaLink="false">569cf4d776355ad73bca54d6306f2a8e</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/как-написать-сценарий-для-youtube-через-claude-и-gemini-01de63be</link>
+      <guid isPermaLink="false">01de63bea575a25ad8312bd684cdfb2d</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Хотите писать цепляющие сценарии для YouTube за минуты, а не часы? Разбираем, как связка Claude и Gemini создаёт готовый сценарий ролика под ваш стиль. Проверенная схема внутри.</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI для творчества</category>
       <category>нейросети</category>
       <category>сценарий для youtube</category>
       <category>claude</category>
       <category>gemini</category>
       <category>искусственный интеллект</category>
-      <category>ютуб блогеры</category>
-      <content:encoded><![CDATA[<p>Сценарий определяет удержание аудитории сильнее, чем монтаж и обложка вместе взятые. Если первые 30 секунд провалены, алгоритм YouTube не покажет ролик новой аудитории. Разберём, как написать сценарий нейросетью так, чтобы он работал на досматриваемость, а не выглядел шаблонной заготовкой.</p>
+      <content:encoded><![CDATA[<h1>Как написать сценарий для YouTube через Claude и Gemini</h1>
+      <p>Сценарий определяет удержание аудитории сильнее, чем монтаж и обложка вместе взятые. Если первые 30 секунд провалены, алгоритм YouTube не покажет ролик новой аудитории. Разберём, как написать сценарий нейросетью так, чтобы он работал на досматриваемость, а не выглядел шаблонной заготовкой.</p>
       <h2>Почему Claude и Gemini, а не только ChatGPT</h2>
       <p>У каждой модели свой характер. Claude от Anthropic силён в длинных связных текстах, держит контекст до 200K токенов и аккуратно работает со стилем автора. Gemini от Google имеет прямой доступ к свежим данным через поиск, что критично для новостных и обзорных каналов.</p>
       <p>ChatGPT для сценария фильма или длинного нарратива тоже подходит, но именно связка двух моделей даёт лучший результат: Gemini собирает факты и тренды, Claude превращает их в живой текст. Работать с обеими моделями в одном окне удобно через multihub.ai - там не нужно переключаться между подписками.</p>
@@ -742,19 +764,21 @@
     </item>
     <item>
       <title>5 способов рисовать комиксы и мангу в Stable Diffusion</title>
-      <link>https://multihub.ai/articles/5-способов-рисовать-комиксы-и-мангу-в-stable-diffusion-8e3e4783</link>
-      <guid isPermaLink="false">8e3e47832db43c991a9925f2b8fe4b79</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/5-способов-рисовать-комиксы-и-мангу-в-stable-diffusion-d25c8694</link>
+      <guid isPermaLink="false">d25c8694869a5a253e10c9ae4f28a9fd</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Хотите создавать комиксы и мангу в Stable Diffusion, но не знаете, с чего начать? Разбираем 5 рабочих способов: от LoRA до ControlNet. Сохраняйте — пригодится!</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>AI для творчества</category>
       <category>нейросети</category>
       <category>Stable Diffusion</category>
       <category>рисование комиксов</category>
       <category>манга</category>
       <category>искусственный интеллект</category>
-      <category>цифровое искусство</category>
-      <content:encoded><![CDATA[<p>Stable Diffusion за два года превратился из развлечения в полноценный инструмент художника. Ниже - пять рабочих методов, которые используют иллюстраторы и студии для производства AI-комиксов и манги. Все способы проверены на практике, без теоретических рассуждений.</p>
+      <content:encoded><![CDATA[<h1>5 способов рисовать комиксы и мангу в Stable Diffusion</h1>
+      <p>Stable Diffusion за два года превратился из развлечения в полноценный инструмент художника. Ниже - пять рабочих методов, которые используют иллюстраторы и студии для производства AI-комиксов и манги. Все способы проверены на практике, без теоретических рассуждений.</p>
       <h2>1. Базовая генерация через специализированные модели</h2>
       <p>Первый шаг в работе с нейросетью для манги - выбор правильного чекпоинта. Универсальные модели вроде SD 1.5 для комиксов не подходят: они выдают «реалистичные» лица и ломают стиль.</p>
       <h3>Какие модели брать</h3>
@@ -833,19 +857,21 @@
     </item>
     <item>
       <title>Title: Gemini 2.0 vs ChatGPT: какая нейросеть лучше в 2025</title>
-      <link>https://multihub.ai/articles/title-gemini-20-vs-chatgpt-какая-нейросеть-лучше-в-2025-d18d2954</link>
-      <guid isPermaLink="false">d18d295412d1f360bfc2c4743fb18742</guid>
-      <pubDate>Mon, 25 May 2026 10:24:40 +0000</pubDate>
+      <link>https://multihub.ai/articles/title-gemini-20-vs-chatgpt-какая-нейросеть-лучше-в-2025-5cf8a8a0</link>
+      <guid isPermaLink="false">5cf8a8a016b8e497f90acadb849da788</guid>
+      <pubDate>Tue, 26 May 2026 11:12:22 +0000</pubDate>
       <description>Gemini 2.0 против ChatGPT в 2025: кто реально умнее, быстрее и полезнее в работе? Сравниваем мультимодальность, агентов и цены — результаты теста удивят даже скептиков.</description>
       <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
       <category>Сравнения AI</category>
       <category>нейросети</category>
       <category>искусственный интеллект</category>
       <category>ChatGPT</category>
       <category>Gemini</category>
       <category>технологии 2025</category>
-      <category>сравнение ИИ</category>
-      <content:encoded><![CDATA[<p>Битва двух флагманов генеративного ИИ обострилась: Google выкатил Gemini 2.0 с упором на мультимодальность и агентные сценарии, а OpenAI продолжает развивать линейку GPT-4 и o-моделей. Разбираем, какая нейросеть выигрывает в реальных задачах 2025 года.</p>
+      <content:encoded><![CDATA[<h1>Title: Gemini 2.0 vs ChatGPT: какая нейросеть лучше в 2025</h1>
+      <p>Битва двух флагманов генеративного ИИ обострилась: Google выкатил Gemini 2.0 с упором на мультимодальность и агентные сценарии, а OpenAI продолжает развивать линейку GPT-4 и o-моделей. Разбираем, какая нейросеть выигрывает в реальных задачах 2025 года.</p>
       <h2>Краткое сравнение характеристик</h2>
       <p>| Параметр | Gemini 2.0 | ChatGPT (GPT-4o / o1) |</p>
       <p>|----------|-----------|----------------------|</p>
